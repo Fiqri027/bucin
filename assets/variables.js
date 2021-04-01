@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Mut", "Muti", "Mutia", "Mutiaa", "Mutiaaa"],
+  nicknames: ["Mut", "Mutia", "Mutia", "Mutiaa", "Mutiaaa"],
   greetings: {
     evening: "Happy Birthday",
     afternoon: "Happy Birthday",
